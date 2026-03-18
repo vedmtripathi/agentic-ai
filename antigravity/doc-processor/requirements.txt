@@ -1,1 +1,15 @@
+streamlit
+langchain
+langchain-community
+langchain-ollama
+chromadb
+pypdf
+pandas
+openpyxl
+python-docx
+python-pptx
+requests
+langchain-text-splitters
+unstructured
+tabulate
 
